@@ -24,3 +24,33 @@ FPGA-based 4-storey elevator controller developed in Verilog HDL using a Finite 
 
 ![Flowchart](Images/Flowchart.jpeg)
 
+## Finite State Machine
+
+![FSM](Images/FSM.png)
+
+## FPGA Board
+![FSM](Images/FPGABoard.jpeg)
+
+## Demo Video
+
+Watch the project demonstration below.
+
+[▶ Elevator Demo](Demo/demo_video.mp4)
+
+
+## Repository Structure
+
+Verilog/      → Verilog HDL source code
+
+Images/       → Flowchart and FSM
+
+Demo/         → Demonstration video
+
+Documents/    → Project report
+
+## Contributors
+
+- Dev Nakrani
+- Dax kakadiya
+
+
